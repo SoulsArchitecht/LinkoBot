@@ -10,12 +10,12 @@ import org.springframework.context.annotation.PropertySource;
 @Data
 public class BotConfig {
 
-    @Value("${bot.name)")
+    @Value("${bot.name}")
     private String botName;
 
     @Value("${bot.key}")
     private String token;
-/*
+
     @Value("${bot.owner.chatid}")
-    private Long ownerChatId;*/
+    private Long ownerChatId;
 }

@@ -1,0 +1,11 @@
+databaseChangeLog:
+  - changeSet:
+      id: 04-change-column-name-at-messages
+      author: Serge
+      changes:
+        - renameColumn:
+            columnDataType: varchar(255)
+            newColumnName: link
+            oldColumnName: message_text
+            schemaName: linkobot
+            tableName: message
