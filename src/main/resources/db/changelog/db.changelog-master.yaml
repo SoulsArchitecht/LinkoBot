@@ -1,0 +1,7 @@
+databaseChangeLog:
+  - include:
+      file: db/changelog/changeset/v1.0/create-user-table.yaml
+  - include:
+      file: db/changelog/changeset/v1.0/create-message-table.yaml
+  - include:
+      file: db/changelog/changeset/v1.0/18122022current-changes.yaml
