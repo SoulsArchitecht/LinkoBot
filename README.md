@@ -5,6 +5,7 @@ First of all you need to register yourself by the entering command "/register".
 You won't be able to use this bot without registration!
 
 This bot is designed for retrieving, storing and sorting user links to internet resources.
+
 You can execute commands from the main menu at the left angle or by typing command:
 Type /start to see a welcome message.
 Type /help to see help information.
