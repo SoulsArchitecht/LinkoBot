@@ -14,7 +14,7 @@
 	<name>LinkoBot</name>
 	<description>Telegram Bot that that collects, stores and sorts the received links.</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 		<telegram.version>6.1.0</telegram.version>
 	</properties>
 	<dependencies>
